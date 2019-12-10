@@ -1,7 +1,6 @@
 {
   "name": "NodeServiceAndMongoDB",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "mongodb": "^3.3.5"
@@ -12,5 +11,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerylMP/NodeService-MongoDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MerylMP/NodeService-MongoDB/issues"
+  },
+  "homepage": "https://github.com/MerylMP/NodeService-MongoDB#readme",
+  "description": ""
 }
